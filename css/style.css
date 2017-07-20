@@ -1,0 +1,159 @@
+#pricing h2 {
+  font-size: 30px; }
+  #pricing h2 span {
+    color: #1ccdca; }
+#pricing h4 {
+  color: #1ccdca;
+  padding-bottom: 40px;
+  margin-bottom: 50px; }
+#pricing h4#bckgrcolor {
+  background-color: #1ccdca;
+  color: white; }
+#pricing .pacakges {
+  margin-top: 50px; }
+  #pricing .pacakges .price {
+    border: 2px solid #1ccdca;
+    border-radius: 50%;
+    width: 90px;
+    position: absolute;
+    left: 38%;
+    top: 0;
+    background-color: white; }
+  #pricing .pacakges h4 {
+    border: 1px solid #e4e4e4;
+    border-bottom: none;
+    padding-top: 70px;
+    padding-bottom: 20px;
+    margin: 0; }
+  #pricing .pacakges h3, #pricing .pacakges h6 {
+    color: #1ccdca; }
+  #pricing .pacakges p {
+    border: 1px solid #e4e4e4;
+    padding: 15px 0;
+    color: #878787;
+    margin: 0;
+    border-bottom: none; }
+  #pricing .pacakges p.button {
+    padding: 40px 0;
+    border-bottom: 1px solid #e4e4e4; }
+  #pricing .pacakges i {
+    margin-right: 10px; }
+  #pricing .pacakges .fa-check {
+    color: #92C135; }
+  #pricing .pacakges .fa-times {
+    color: #e74c3c; }
+  #pricing .pacakges a {
+    background: #fff;
+    border: 2px solid #ECE8E7;
+    border-radius: 20px;
+    font-size: 14px;
+    padding: 10px 18px;
+    color: #999;
+    font-style: italic;
+    text-decoration: none; }
+  #pricing .pacakges a:hover {
+    background: #576162;
+    border-color: #576162;
+    color: #fff; }
+#pricing .pacakges:hover h4 {
+  background-color: #1ccdca;
+  color: white; }
+
+#firstsector {
+  background: #1B2228;
+  color: #fff; }
+  #firstsector .container {
+    padding: 50px 15px; }
+    #firstsector .container p {
+      color: #aaa;
+      font-size: 20px;
+      font-weight: 300;
+      line-height: 34px; }
+    #firstsector .container h3 {
+      margin: 20px 0; }
+
+#supercoding {
+  background: #f9fafc;
+  border-bottom: 1px solid #eaebed;
+  border-top: 1px solid #eaebed; }
+  #supercoding .container {
+    padding: 90px 0; }
+    #supercoding .container i {
+      color: #1ccdca;
+      margin-right: 30px;
+      margin-bottom: 40px;
+      border: solid 1px #1ccdca;
+      border-radius: 50%;
+      height: 84px;
+      line-height: 84px;
+      width: 84px;
+      font-size: 30px; }
+    #supercoding .container a {
+      color: inherit;
+      text-decoration: none; }
+    #supercoding .container .three {
+      overflow: hidden; }
+    #supercoding .container .three:hover a {
+      color: #1ccdca;
+      transition: all 0.4s ease; }
+    #supercoding .container .three:hover i {
+      background-color: #1ccdca;
+      color: white; }
+    #supercoding .container h3 {
+      font-size: 17px; }
+    #supercoding .container p {
+      font-size: 14px;
+      color: grey; }
+
+#services .container {
+  padding: 90px 15px; }
+  #services .container h3 {
+    font-size: 30px; }
+  #services .container img {
+    max-width: 100%;
+    overflow: hidden; }
+  #services .container i {
+    color: white;
+    background-color: #1ccdca;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    border: solid 1px #1ccdca;
+    border-radius: 50%;
+    height: 84px;
+    line-height: 84px;
+    width: 84px;
+    font-size: 30px; }
+  #services .container .servicesleft {
+    margin: 30px 0;
+    overflow: hidden; }
+  #services .container .servicesleft:hover h4 {
+    color: #1ccdca; }
+
+#contactUs {
+  background: #f9fafc;
+  border-bottom: 1px solid #eaebed;
+  border-top: 1px solid #eaebed; }
+  #contactUs .container {
+    padding-bottom: 90px;
+    padding-top: 90px; }
+    #contactUs .container h2 {
+      font-size: 30px;
+      margin-bottom: 40px;
+      padding-bottom: 20px; }
+    #contactUs .container h3 {
+      color: #1ccdca;
+      font-size: 24px;
+      padding-bottom: 30px;
+      padding-top: 30px; }
+    #contactUs .container label {
+      color: #888;
+      line-height: 39px; }
+      #contactUs .container label span {
+        color: #e74c3c; }
+    #contactUs .container button {
+      color: white;
+      background-color: #1ccdca; }
+    #contactUs .container button:hover {
+      background-color: darkslategrey; }
+
+/*# sourceMappingURL=style.css.map */
