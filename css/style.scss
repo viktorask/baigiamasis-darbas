@@ -31,12 +31,11 @@
 
       border: 2px solid #1ccdca;
       border-radius: 50%;
-      width : 90px;
+      width: 90px;
       position: absolute;
       left: 38%;
       top: 0;
       background-color: white;
-
 
     }
 
@@ -293,3 +292,55 @@
   }
 }
 
+#accordion {
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.tab-pane {
+
+  img {
+
+    width: 100%;
+  }
+}
+
+#progress {
+
+  .container-fluid {
+
+    .row {
+
+      background-image: url("../images/bg_header4.jpg");
+      background-size: cover;
+      position: relative;
+
+      #halfblack {
+
+        color: white;
+        background-color: #3c464d;
+        padding: 80px 50px;
+      }
+
+      .progress {
+
+        height: 40px;
+
+        .progress-bar {
+
+          padding: 10px;
+
+
+          .borderwhite {
+
+            color: grey;
+            background-color: white;
+            padding: 0 5px;
+          }
+        }
+      }
+    }
+  }
+}

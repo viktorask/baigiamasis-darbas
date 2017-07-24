@@ -156,4 +156,27 @@
     #contactUs .container button:hover {
       background-color: darkslategrey; }
 
+#accordion a {
+  text-decoration: none; }
+
+.tab-pane img {
+  width: 100%; }
+
+#progress .container-fluid .row {
+  background-image: url("../images/bg_header4.jpg");
+  background-size: cover;
+  position: relative; }
+  #progress .container-fluid .row #halfblack {
+    color: white;
+    background-color: #3c464d;
+    padding: 80px 50px; }
+  #progress .container-fluid .row .progress {
+    height: 40px; }
+    #progress .container-fluid .row .progress .progress-bar {
+      padding: 10px; }
+      #progress .container-fluid .row .progress .progress-bar .borderwhite {
+        color: grey;
+        background-color: white;
+        padding: 0 5px; }
+
 /*# sourceMappingURL=style.css.map */
