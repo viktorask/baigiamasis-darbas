@@ -321,6 +321,9 @@ footer {
   padding: 20px 0; }
   #myNavbar a:hover {
     color: #1ccdca; }
+  #myNavbar .shoppingchart div .shopping .dropdown-menu {
+    padding: 20px;
+    margin: 20px; }
   #myNavbar .shoppingchart div i {
     font-size: 20px;
     color: grey;
@@ -330,5 +333,8 @@ footer {
     overflow: hidden; }
   #myNavbar .shoppingchart i:hover {
     color: #1ccdca; }
+
+#carousel-example-generic {
+  margin-top: 90px; }
 
 /*# sourceMappingURL=style.css.map */

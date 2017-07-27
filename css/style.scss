@@ -653,6 +653,16 @@ footer {
 
     div {
 
+      .shopping {
+
+        .dropdown-menu {
+          padding: 20px;
+          margin: 20px;
+
+        }
+
+      }
+
       i {
 
         font-size: 20px;
@@ -669,4 +679,9 @@ footer {
       color: #1ccdca;
     }
   }
+}
+
+#carousel-example-generic {
+
+  margin-top: 90px;
 }
