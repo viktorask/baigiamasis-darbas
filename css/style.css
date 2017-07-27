@@ -156,6 +156,20 @@
     #contactUs .container button:hover {
       background-color: darkslategrey; }
 
+#workwithus {
+  background: #f9fafc;
+  border-bottom: 1px solid #eaebed;
+  border-top: 1px solid #eaebed; }
+  #workwithus .container {
+    padding: 90px 0;
+    color: grey; }
+    #workwithus .container h3 {
+      padding-bottom: 40px;
+      color: black; }
+    #workwithus .container .tab-content i {
+      color: red;
+      font-size: 15px; }
+
 #accordion a {
   text-decoration: none; }
 
@@ -237,7 +251,7 @@
         padding: 10px; }
       #companyinfo .container .therdcol #tags a:hover {
         color: white;
-        border: solid  1px #1ccdca; }
+        border: solid 1px #1ccdca; }
     #companyinfo .container .therdcol #widgets {
       clear: both;
       padding-top: 30px;
@@ -246,9 +260,35 @@
         padding: 5px; }
       #companyinfo .container .therdcol #widgets img {
         width: 100%; }
-    #companyinfo .container #fourthcol img {
-      width: 100%;
-      height: auto; }
+    #companyinfo .container #fourthcol #fourthcol1 div {
+      background-color: white;
+      padding: 20px 20px 20px 150px;
+      margin-bottom: 40px; }
+      #companyinfo .container #fourthcol #fourthcol1 div h4 {
+        color: grey;
+        padding: 0; }
+      #companyinfo .container #fourthcol #fourthcol1 div i {
+        padding-right: 15px;
+        padding-bottom: 15px;
+        color: grey; }
+      #companyinfo .container #fourthcol #fourthcol1 div h4:hover, #companyinfo .container #fourthcol #fourthcol1 div i:hover {
+        color: #1ccdca; }
+      #companyinfo .container #fourthcol #fourthcol1 div a {
+        text-decoration: none; }
+    #companyinfo .container #fourthcol img.pull-left {
+      width: 35%;
+      overflow: hidden;
+      position: absolute;
+      top: 10%;
+      left: 10%; }
+    #companyinfo .container #fourthcol #video {
+      clear: both;
+      border-top: solid 1px grey;
+      padding-top: 30px; }
+      #companyinfo .container #fourthcol #video img {
+        width: 100%; }
+    #companyinfo .container #fourthcol h4 {
+      padding-bottom: 20px; }
     #companyinfo .container .posttxt p {
       margin: 0; }
     #companyinfo .container h4 {
@@ -258,5 +298,37 @@
     #companyinfo .container h5 {
       color: lightgrey;
       margin-top: 0; }
+
+footer {
+  background-color: black;
+  color: grey; }
+  footer a {
+    color: grey; }
+  footer a:hover {
+    text-decoration: none;
+    color: #1ccdca; }
+  footer .container {
+    padding: 30px 0; }
+    footer .container p span a {
+      color: #1ccdca; }
+
+#map {
+  width: 100%;
+  height: 400px;
+  background-color: grey; }
+
+#myNavbar {
+  padding: 20px 0; }
+  #myNavbar a:hover {
+    color: #1ccdca; }
+  #myNavbar .shoppingchart div i {
+    font-size: 20px;
+    color: grey;
+    border: solid 1px grey;
+    border-radius: 50%;
+    padding: 10px;
+    overflow: hidden; }
+  #myNavbar .shoppingchart i:hover {
+    color: #1ccdca; }
 
 /*# sourceMappingURL=style.css.map */
