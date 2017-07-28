@@ -1,3 +1,6 @@
+html, body {
+  font-family: "Arial", sans-serif; }
+
 #pricing h2 {
   font-size: 30px; }
   #pricing h2 span {
